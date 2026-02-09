@@ -40,7 +40,7 @@ VaidyaAI transforms complex medical data into:
 - ⚖️ Ethical, non-diagnostic insights  
 
 <p align="center">
-  <img src="./WhatsApp Image 2026-02-09 at 11.58.09 AM (1).jpeg" alt="Medical Report Confusion" width="85%">
+  <img src="./WhatsApp Image 2026-02-09 at 12.20.13.jpeg" alt="Medical Report Confusion" width="85%">
 </p>
 
 ---
@@ -137,14 +137,3 @@ graph LR
 A[User] --> B[React UI]
 B --> C[Local State / Dummy AI Data]
 C --> D[Visual & Multilingual Output]
-🔮 Future Scope
-
-📄 OCR-based medical report upload
-
-🔐 Secure backend & authentication
-
-📚 Verified medical datasets
-
-👨‍⚕️ Doctor–patient communication
-
-♿ Enhanced accessibility features
